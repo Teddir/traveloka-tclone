@@ -134,3 +134,8 @@
   --color-white-t: '#EFF1F3';
   --color-succes:'rgb(139, 226, 0)'
 }
+
+
+button {
+  @apply cursor-pointer
+} 

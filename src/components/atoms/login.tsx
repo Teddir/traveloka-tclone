@@ -94,8 +94,8 @@ export function DialogAuth({ scrolled = false, isRegister = false }: DialogAuthP
         <DialogFooter className="sm:justify-start px-4 z-10">
           <p className="justify-center text-center text-xs font-semibold text-[#707577]">
             By continuing, you agree to this{" "}
-            <span className="text-[#0171CE]">Terms & Conditions</span> and acknowledge that you have been informed about our{" "}
-            <span className="text-[#0171CE]">Privacy Notice</span>.
+            <span className="text-[#0171CE] cursor-pointer">Terms & Conditions</span> and acknowledge that you have been informed about our{" "}
+            <span className="text-[#0171CE] cursor-pointer">Privacy Notice</span>.
           </p>
         </DialogFooter>
 
