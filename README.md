@@ -44,7 +44,7 @@ Berikut adalah halaman dan fitur yang dibangun dalam project ini:
 5. Akses aplikasi di [http://localhost:3000](http://localhost:3000).
 
 ## Hosting Website
-Website ini sudah dihosting dan dapat diakses secara online melalui link berikut: [Link ke website yang dihosting](https://traveloka-tclone.vercel.app).
+Website ini sudah dihosting dan dapat diakses secara online melalui link berikut: [Link website](https://traveloka-tclone.vercel.app).
 
 ## License
 Project ini bersifat open-source dan dilisensikan di bawah MIT License.
