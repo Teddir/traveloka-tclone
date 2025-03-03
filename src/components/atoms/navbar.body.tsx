@@ -12,13 +12,13 @@ import { MinusIcon, PlusIcon } from 'lucide-react';
 export default function NavbarBody() {
   const [showImages, setShowImages] = useState(true);
   const [searchQuery, setSearchQuery] = useState(''); 
-  const [hotels, setHotels] = useState([
+  const hotels = [
     { name: 'Bali Beach Resort', location: 'Bali, Indonesia', count: 12000 },
     { name: 'Bali Villa Stay', location: 'Bali, Indonesia', count: 10000 },
     { name: 'Bali Luxury Hotel', location: 'Bali, Indonesia', count: 8000 },
     { name: 'Bali Jungle Resort', location: 'Bali, Indonesia', count: 7000 },
     { name: 'Bali Ocean View', location: 'Bali, Indonesia', count: 15000 },
-  ]); 
+  ]
 
   const filteredHotels = hotels.filter((hotel) =>
     hotel.name.toLowerCase().includes(searchQuery.toLowerCase())

@@ -1,8 +1,6 @@
-import { Copy, UserIcon } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { UserIcon } from "lucide-react";
 import {
   Dialog,
-  DialogClose,
   DialogContent,
   DialogDescription,
   DialogFooter,
