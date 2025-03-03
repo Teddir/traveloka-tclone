@@ -6,6 +6,12 @@ Project ini adalah tiruan dari website **Traveloka** yang dibuat dengan mengguna
 
 Berikut adalah halaman dan fitur yang dibangun dalam project ini:
 1. **Halaman Landing**: Halaman pertama yang memuat tampilan seperti website Traveloka.
+![alt text](https://github.com/Teddir/traveloka-tclone/blob/main/public/ss/1.png?raw=true)
+![alt text](https://github.com/Teddir/traveloka-tclone/blob/main/public/ss/2.png?raw=true)
+![alt text](https://github.com/Teddir/traveloka-tclone/blob/main/public/ss/3.png?raw=true)
+![alt text](https://github.com/Teddir/traveloka-tclone/blob/main/public/ss/4.png?raw=true)
+![alt text](https://github.com/Teddir/traveloka-tclone/blob/main/public/ss/5.png?raw=true)
+
 <!-- 2. **Tampilan Hasil Pencarian Hotel**: Setelah menekan tombol "Search Hotels", aplikasi akan menampilkan 3 data hotel yang berbeda. Data hotel ini bersifat statis.
 3. **Tampilan Detail Informasi Hotel**: Menampilkan detail informasi hotel dengan animasi dan filter yang menyerupai Traveloka.
 4. **Tampilan Form Booking**: Form untuk melakukan pemesanan hotel.
